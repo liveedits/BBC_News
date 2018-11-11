@@ -3,6 +3,6 @@ services:
     phpfpm:
         image: php:5.6.24-fpm
         volumes:
-            - "./bbc.com:/var/www/html/bbc.com"
+            - "./www.bbc.com:/var/www/html/www.bbc.com"
             - ./parser.php:/var/www/html/parser.php
  
