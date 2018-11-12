@@ -187,7 +187,6 @@ foreach($links as $link) {
         if (!is_dir($dirname)) {
             mkdir($dirname, 0755, true);
         }
-        print($f);
 
         # Write file to folder
         $myfile = fopen($f, "w") or die("Unable to open file!"); 
