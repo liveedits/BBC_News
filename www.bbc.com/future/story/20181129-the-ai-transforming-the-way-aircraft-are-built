@@ -1,0 +1,84 @@
+
+              
+         
+     
+             
+                    
+                         
+                             
+             
+                 
+                         
+                             
+                 
+                 
+                         
+                             
+                 
+             
+            
+  
+ 
+     
+     
+                 
+            
+        
+            
+    
+    
+        
+              
+        
+            
+    
+    
+
+            
+     
+     
+      
+     
+     
+     
+
+         
+         
+             It looks more like a chicken carcass than a drone. Wishbone-thin struts hold together a skeletal scaffold that seems too fragile to fly.But don’t be fooled. It may not look it, but this design is one of the strongest among thousands of alternatives. We know because an artificial intelligence has dreamed up and tested every one of them.The use of massive computing power to conjure radical new designs automatically – a process known as generative design –  is revolutionising the way human designers work, letting us build things we previously couldn’t have imagined.You might also like: • The A-Z of how artificial intelligence is changing the world • Why machines dream of spiders with 15 legs • The goldmine hidden in your pocketThe technology is already designing everyday industrial components from seatbelt brackets in cars and motorbike chassis to cabin partitions in passenger aircraft. Not only are these computer-generated designs stronger and lighter than human-crafted solutions but they’re weird – designs that no human would have come up with in the first place.“The computer can really surprise you,” says Lilli Smith at Autodesk in Boston, a software design company which has several generative designs under its belt, including the unusual drone chassis. 
+    
+        
+            
+                This media cannot be played on your device.
+            
+        
+    Instead of waiting for inspiration to hit, computers go looking. Handed a set of design constraints – such as making it lightweight, strong and low-cost – generative design software identifies and assesses hundreds or thousands of candidates that all fit the bill, before selecting the pick of the crop. Humans switch from being creators to curators By trawling through an exhaustive set of options, computers typically find ones that a human would have missed. Designers can simply choose from a handful that the software predicts will do the job better than the rest. Humans switch from being creators to curators.The basic idea is simple: here’s what I want, show me the best. But the software and cloud-based computing power needed to pull it off have only appeared in the last few years. For one of its first generative design projects, in 2015, Autodesk Research teamed up with the Bandito Bros, a US multimedia studio known for its wacky stunts, and asked an AI to design a car.The team wired up a custom-built off-road buggy with hundreds of sensors and raced it around the Mojave Desert. This let them capture a vast amount of data about the stresses that extreme driving placed on different parts of the vehicle. They then fed this to the generative design system with the instruction to produce something that could handle this. The resulting design, dubbed the Hack Rod, gave a glimpse of the future: more strength from less material – and alien-looking.There’s a reason generative designs look weird, as if they were the result of a natural process rather than made, says Erin Bradner at Autodesk Research in San Francisco. “The algorithm will fine tune the structure so that not a single piece of material is added that’s not needed,” she says. “Some people relate it to erosion.”
+    
+        View image of Generative design and 3D printing makes the impossible possible (Credit: Autodesk, Inc)
+    This process of elimination applies not only to the amount of material in a structure but also the number of parts needed to make it. “That can mean fewer suppliers, faster assembly and fewer points of failure,” says Bradner.The trouble with favouring organic structures is that they can be hard to manufacture with traditional machines. Additive manufacturing – or 3D printing – can be used to make most shapes, but not all industries yet use it. To get around that, you can instruct the design software to generate something that can be made by certain kinds of equipment.“A designer can specify that she wants to make a part on a three-axis mill with a specific diameter cutting tool and the algorithm will only produce parts that can be made by that mill, with that cutter,” says Bradner.Manufacturing limitations become yet another design constraint that the software takes on board. “Designers are faced with a myriad of choices every day that they don’t have the time or mental resources to fully explore,” she says. “If I could make my part in aluminium or steel what would it look like? If I could manufacture by 3D printing or milling, what alternatives could I consider?”
+    
+        View image of Partitions in aircraft cabins are being designed by AI (Credit: Alamy)
+    Generative design is still a new technology, with many projects one-off experiments, such as the Hack Rod and drone. But companies like Autodesk and Frustum, based in Colorado, are starting to take the tech mainstream via collaborations with a range of major manufacturers. “We’re doing a lot of work with aerospace companies,” says Frustum’s chief executive Jesse Blankenship. When designing components for aircraft, a small reduction in weight can makes a big difference When designing components for aircraft, a small reduction in weight can makes a big difference. Blankenship says his company’s software has been used to design lighter components like heat exchangers and acoustic baffling. Frustum has clients in the defence industry as well, but they’re tight-lipped about what they’re designing. “I just know they buy the software,” he says.Autodesk has also been helping aircraft lose weight. The Airbus A320 now has lightweight partitions between cabins that were designed by an AI that Autodesk Research co-developed with New York-based software company The Living. The partition’s skeletal design has rods criss-crossing at odd angles.Others have also been looking at AI’s ability to improve aircraft design. Researchers at the German Aerospace Centre (DLR) have been investigating its role in helping to tune combat aircraft to specific missions. Aerospace engineers at Delft University in the Netherlands have also been developing a tool that produces conceptual aircraft designs.
+    
+        View image of Airbus's new cabin partition is 30kg lighter (Credit: Airbus)
+    It’s not only planes that benefit from being lighter. Autodesk has worked with US car maker General Motors to create a seatbelt bracket that is 40 percent lighter and 20 percent stronger than the previous version. At its annual trade show in November this year, Autodesk also showed off an AI-designed suspension system for a Mercedes-Benz Formula 1 racing car and a frame for a BMW motorcycle.Even Nasa is in on it. Next to the car and bike parts was a lander that Nasa is developing for missions to the moons of Jupiter and Saturn. Autodesk’s generative design for the lander’s legs is 35 percent lighter than previous human-made designs.For David Kirsh, a cognitive scientist at the University of California, San Diego and visiting researcher at University College London’s Bartlett School of Architecture, generative design lets us outsource a kind of hands-on problem solving.Kirsh is interested in how human thinking is embedded in our physical environment. Imagine you’re putting together a jigsaw puzzle. You could try to fit all the pieces together in your head, using what we might call the mind’s eye. Or you could build it. For any puzzle with more than a handful of pieces, solving the problem with our hands rather than our head is far easier. “Cognition is a product of the interaction between brains, bodies and the world,” he says.
+    
+        View image of Nasa's new interplanetary lander has legs designed by a machine (Credit: Autodesk, Inc)
+    Many problems can’t be solved (just) in our head at all, which is why design typically involves prototyping to see how pieces fit together and work as a whole. Here’s another example. If you have a peg that you need to fit into a tight hole you don’t study the peg and the hole and calculate how it’s going to go in. “The trick is actually to put it part-way in and then jiggle it,” says Kirsh. “There is no counterpart in the mind for jiggling.” Trying out thousands of different ways to meet a set of design constraints – like different positions for the peg in the hole – is a form of virtual jiggling But generative design could be the next best thing. Trying out thousands of different ways to meet a set of design constraints – like different positions for the peg in the hole – is a form of virtual jiggling.In fact, some design problems are a lot like puzzles. When Autodesk Research wanted to set up a new office in Toronto, they worked with The Living again to design the layout. Most offices stick to a standard floor plan, with meeting rooms in the middle or around the edges and the desks grouped together.The design generated for the Toronto office is different. As with the Hack Rod, the designers collected as much data as they could, this time about people’s working preferences – how much natural light, how much social interaction, their working hours and so on. They also noted which groups needed to be close to which other groups.
+    
+        View image of A skeleton drawing of a concept aircraft that features bionic shapes (Credit: Airbus)
+    Feeding these constraints to the software produced hundreds of possible layouts for the office’s desks, meeting rooms and social spaces. The one that the designers picked from the few most recommended by the AI has small groups of desks interspersed with communal areas and teams arranged in a way that maximises interaction.Van Wijnen, a construction company based in the Netherlands, is doing the same thing for entire neighbourhoods. The firm has changed its entire construction process to make the most of its generative design tools.Its houses are now made from prefabricated parts, which means working out the best way for them to be built and arranged along a street becomes another puzzle.To design its neighbourhoods, Van Wijnen gives its software a large number of constraints, from the requirement that all apartments should have at least 3,000 square metres of floor space and at least one parking space to the requirement that all roof-mounted solar panels get enough sunlight and that there is a variety of different house designs in a street.For now, arranging these pre-designed pieces of a large puzzle pushes the software as far as it can go. Designing a whole house from scratch would involve many more variables – and regulations – than designing a new part for a vehicle. But eventually we might get computers to come up with new architectural designs. It might possible to teach them to design a building in the style of Le Corbusier, the famous Swiss-French architect, says Smith. Or the load-bearing structure of a skyscraper could be designed in the same way as a car chassis, which could let us build taller buildings than we ever could on our own.
+    
+        View image of Le Corbusier's Notre Dame du Haut in Ronchamp, France (Credit: Alamy)
+    There is certainly an appetite for using AI in design. According to Blankenship, sportswear companies like New Balance and Adidas have started looking at generative design as a way to make personalised trainers, offering customers huge variety in the style and function of their footwear. Add in 3D printing –letting you manufacture unorthodox shapes on the spot – and you could generate your customised design on a website and have it made in the shoe shop down the street.This changes the relationship between product designers and their customers. To paraphrase Maurice Conti, who helped pioneer generative design at Autodesk before moving to experimental tech company Alpha in Barcelona: instead of making people want to buy your stuff, you invite them to make stuff they want to buy.There are of course limitations to the technology. ”It’s not magic,” says Kirsh. Some things will be harder for computers to make. For example, many of our most celebrated objects or buildings give us a particular experience or make us feel a certain way. But that’s hard to put into code. “We might not be able to pin down what causes that feeling,” says Kirsh.What’s clear is that designers have a powerful new tool and the best designs will come from a back and forth between human and machine. “Computers will do what computers are good at, people will do what people are good at,” says Bradner.“It’s a fascinating opportunity to think in new ways,” says Smith. “People think it’s going to take away their jobs but it’s going to make them so much better.”  Blankenship agrees. “We could certainly get to a future where a lot of design work is fully automated,” he says. But you still want people to sign off on it. Is it any good? Is it better than the last one? Is it what we want?These are questions only a human can answer. “Otherwise what are we doing it all for? A machine without people doesn’t make any sense,” he says.  Join 900,000+ Future fans by liking us on Facebook, or follow us on Twitter or Instagram.If you liked this story, sign up for the weekly bbc.com features newsletter, called “If You Only Read 6 Things This Week”. A handpicked selection of stories from BBC Future, Culture, Capital, and Travel, delivered to your inbox every Friday. 
+         
+
+ 
+     
+     
+     
+     
+         
+     
+         
+      
+            
