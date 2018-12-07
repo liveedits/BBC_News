@@ -18,7 +18,7 @@
             Australia has passed controversial laws designed to compel technology companies to grant police and security agencies access to encrypted messages.The government says the laws, a world first, are necessary to help combat terrorism and crime.However critics have listed wide-ranging concerns, including that the laws could undermine the overall security and privacy of users. The laws were rushed through parliament on its final day of the year.The Labor opposition said it had reluctantly supported the laws to help protect Australians during the Christmas period, but on Friday it said that "legitimate concerns" about them remained.
     
         
-Cyber-security experts have warned the laws could now create a "global weak point" for companies as Facebook and Apple.Why are encrypted messages an issue?Australia already has laws which require providers to hand over a suspect's communication to police. This may already be possible if a service provider uses a form of encryption that allows them to view a user's message.But in recent years, services such as WhatsApp, Signal and others have added an additional layer of security known as end-to-end encryption.FBI says device encryption is 'a huge problem'
+Cyber-security experts have warned the laws could now create a "global weak point" for companies such as Facebook and Apple.Why are encrypted messages an issue?Australia already has laws which require providers to hand over a suspect's communication to police. This may already be possible if a service provider uses a form of encryption that allows them to view a user's message.But in recent years, services such as WhatsApp, Signal and others have added an additional layer of security known as end-to-end encryption.FBI says device encryption is 'a huge problem'
 Geeks v government: The battle over public key cryptography
 End-to-end encryption allows only the sender and recipient to view a message, preventing it from being unscrambled by the service provider. Australia and other countries have said that terrorists and criminals exploit this technology to avoid surveillance.How would this change work?It differs from laws in China, Russia and Turkey, where services offering end-to-end encryption are banned.Under Australia's legislation, police can force companies to create a technical function that would give them access to encrypted messages without the user's knowledge.
                 
@@ -37,28 +37,36 @@ End-to-end encryption allows only the sender and recipient to view a message, pr
                 
             "This ensures that our national security and law enforcement agencies have the modern tools they need, with appropriate authority and oversight, to access the encrypted conversations of those who seek to do us harm," Attorney-General Christian Porter said.However, cyber-security experts say it's not possible to create a "back door" decryption that would safely target just one person. "Any vulnerability would just weaken the existing encryption scheme, affecting security overall for innocent people," said Dr Chris Culnane from the University of Melbourne.Such a "security hole" could then be abused or exploited by criminals, he said. In a bid to address these concerns, Australia's law offers a safeguard which says decryptions won't go ahead if they create a "systemic weakness".However critics say the definition of "systemic weakness" is vague, meaning it is unclear how it may be applied. What are the other concerns?Digital rights advocates are highly critical of Australia's move, saying it lacks sufficient checks and balances.The Electronic Frontier Foundation has said police could order individual IT developers to create technical functions without their company's knowledge."This has the potential for Australian tech firms to have no clue whether they were even subject to an order," the foundation's Nate Cardozo told the BBC.There is also criticism over how fast the laws were passed. A draft bill was presented only in August.A parliamentary committee examining the legislation did not release its report until late on Wednesday. The Labor opposition added 173 amendments to the bill on Thursday."It's completely been rushed. There's no way anyone could have formed a properly informed view on the changes to this very technical piece of legislation in that time," Dr Culnane said.What does it mean for tech firms?If companies don't comply with the laws, they risk being fined. That's led to speculation that some global firms which have vocally opposed the laws could withdraw from the Australian market.However, Dr Culnane said that most companies are likely to comply - partly because users won't be aware if their messages have been accessed.However, experts say the full implications are unclear and much uncertainty remains. Some firms have already suggested that they may not be subject to Australian law.Experts add that, given the debate involves national security, many aspects may play out behind closed doors.
     
-        
-            Skip Twitter post  by @ProtonMail
-            
-                We are following the Australian #AAbill closely. The updated regulation does not address any of our #privacy concerns, which we explain here https://t.co/I2aXgPXMxj. ProtonMail users will not be impacted because as a Swiss company, we are not subject to Australian law.— ProtonMail (@ProtonMail) December 5, 2018
-
-            Report
-            
-            End of Twitter post  by @ProtonMail
-        
+      
+              
+              Image Copyright @ProtonMail
+              @ProtonMail
+          
+          Report
+      
+          
+                  Image Copyright @ProtonMail
+                  @ProtonMail
+              
+              Report
+          
     
 
 
     
-        
-            Skip Twitter post  by @adam_chal
-            
-                if the #aabill passes I just won't be able to work in Australia :( I have an ethical obligation to users of my software not to expose their data. Breaking all their crypto/security is just a non-starter.— Adam Chalmers (@adam_chal) December 4, 2018
-
-            Report
-            
-            End of Twitter post  by @adam_chal
-        
+      
+              
+              Image Copyright @adam_chal
+              @adam_chal
+          
+          Report
+      
+          
+                  Image Copyright @adam_chal
+                  @adam_chal
+              
+              Report
+          
     
 
 
