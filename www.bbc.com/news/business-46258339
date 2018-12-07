@@ -1,0 +1,124 @@
+
+    The blind woman developing tech for the good of others
+
+        
+        By Virginia Harrison
+        BBC News, Singapore 
+    
+
+        
+
+    
+        
+                
+                Image copyright
+                 IBM
+                
+            
+            
+            Image caption
+                
+                    Chieko Asakawa received Japan's Medal of Honour for her contribution to accessibility research
+                
+            An accident in a swimming pool left Chieko Asakawa blind at the age of 14. For the past three decades she's worked to create technology - now with a big focus on artificial intelligence (AI) - to transform life for the visually impaired."When I started out there was no assistive technology," Japanese-born Dr Asakawa says."I couldn't read any information by myself. I couldn't go anywhere by myself." Those "painful experiences" set her on a path of learning that began with a computer science course for blind people. A job at IBM soon followed, where she earned a doctorate and started her pioneering work on accessibility that continues today. She's behind early digital Braille innovations and created the world's first practical web-to-speech browser. Those browsers are commonplace these days, but 20 years ago, Dr Asakawa gave blind internet users in Japan access to more information than they'd ever had before. 
+    
+        
+
+                
+                
+                
+                
+                
+                 Image copyright
+                 Getty Images
+                
+            
+            
+            Image caption
+                
+                    Braille and voice control are still key technologies for blind people
+                
+            Now she and other technologists are looking to use AI to create tools for visually impaired people. Micro mappingFor example, Dr Asakawa has developed NavCog, a voice-controlled smartphone app that helps blind people navigate complicated indoor locations. Low-energy Bluetooth beacons are installed roughly every 10m (33ft) to create an indoor map. Sampling data is collected from those beacons to build "fingerprints" of a specific location. "We detect user position by comparing the users' current fingerprint to the server's fingerprint model," she says. 
+                
+                
+                
+                
+                
+                 Image copyright
+                 Getty Images
+                
+            
+            
+            Image caption
+                
+                    Could navigation apps mean blind people have to rely on canes less?
+                
+            Collecting large amounts of data creates a more detailed map than is available in an application like Google Maps, which doesn't work for indoor locations and cannot provide the level of detail blind and visually impaired people need, she says."It can be very helpful, but it cannot navigate us exactly," says Dr Asakawa, who's now an IBM Fellow, a prestigious group that has produced five Nobel prize winners.NavCog is currently in a pilot stage, available in several sites in the US and one in Tokyo, and IBM says it is close to making the app available to the public.'It gave me more control'Pittsburgh residents Christine Hunsinger, 70, and her husband Douglas Hunsinger, 65, both blind, trialled NavCog at a hotel in their city during a conference for blind people. "I felt more like I was in control of my own situation," says Mrs Hunsinger, now retired after 40 years as a government bureaucrat. She uses other apps to help her get around, and says while she needed to use her white cane alongside NavCog, it did give her more freedom to move around in unfamiliar areas. 
+                
+                
+                
+                
+                
+                 Image copyright
+                 IBM
+                
+            
+            
+            Image caption
+                
+                    Dr Asakawa says memories of colour help with her work on object recognition and NavCog
+                
+            Mr Hunsinger agrees, saying the app "took all the guesswork out" of finding places indoors. "It was really liberating to travel independently on my own." A lightweight 'suitcase robot'Dr Asakawa's next big challenge is the "AI suitcase" - a lightweight navigational robot. It steers a blind person through the complex terrain of an airport, providing directions as well as useful information on flight delays and gate changes, for example. The suitcase has a motor embedded so it can move autonomously, an image-recognition camera to detect surroundings, and Lidar - Light Detection And Ranging - for measuring distances to objects. 
+                
+                
+                
+                
+                
+                 Image copyright
+                 Getty Images
+                
+            
+            
+            Image caption
+                
+                    Lidar is more associated with driverless cars than smart suitcases
+                
+            When stairs need to be climbed, the suitcase tells the user to pick it up.  "If we work together with the robot it could be lighter, smaller and lower cost," Dr Asakawa says.The current prototype is "pretty heavy", she admits. IBM is pushing to make the next version lighter and hopes it will ultimately be able to contain at least a laptop computer. It aims to pilot the project in Tokyo in 2020. "I want to really enjoy travelling alone. That's why I want to focus on the AI suitcase even if it is going to take a long time."IBM showed me a video of the prototype, but as it's not ready for release yet the firm was reluctant to release images at this stage.AI for 'social good' Despite its ambitions, IBM lags behind Microsoft and Google in what it currently offers the visually impaired. Microsoft has committed $115m (£90m) to its AI for Good programme and $25m to its AI for accessibility initiative. For example, Seeing AI - a talking camera app - is a central part of its accessibility work. 
+                
+                
+                
+                
+                
+                 Image copyright
+                 Microsoft
+                
+            
+            
+            Image caption
+                
+                    Microsoft's Saqib Shaikh demonstrates the firm's text-to-speech smartphone app
+                
+            And later this year Google reportedly plans to launch its Lookout app, initially for the Pixel, that will narrate and guide visually impaired people around specific objects. "People with disabilities have been overlooked when it comes to technology development as a whole," says Nick McQuire, head of enterprise and AI research at CCS Insight.But he says that's been changing in the past year, as big tech firms push hard to invest in AI applications that "improve social wellbeing".He expects more to come in this space, including from Amazon, which has sizeable investments in AI. 
+                
+                
+                
+                
+                
+            
+            
+        More Technology of BusinessCan a brand create a 'sonic identity' from light bulbs?
+'People find anything about the vagina hard to talk about'
+Inside the death zone with the nuclear clean-up robots
+Would you buy a handbag from Plada or Loius Vuitton?
+How 'miniature suns' could provide cheap, clean energy 
+
+                
+                
+                
+                
+                
+            
+            
+        "But it's really Microsoft and Google... in the last 12 months that have made the big focus in this area," he says. Mr McQuire says the focus on social good and disability is linked to "trying to showcase the benefits [of AI] in light of a lot of negative sentiment" around AI replacing human jobs and even taking over completely.But AI in the disability space is far from perfect. A lot of the investment right now is about "proving the accuracy and speed of the applications" around vision, he says. Dr Asakawa concludes simply:  "I've been tackling the difficulties I found when I became blind. I hope these difficulties can be solved."  Follow Technology of Business editor Matthew Wall on Twitter and Facebook
+Click here for more Technology of Business features
+
