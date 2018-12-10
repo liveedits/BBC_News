@@ -1,0 +1,77 @@
+
+              
+         
+     
+             
+                    
+                         
+                             
+             
+                 
+                         
+                             
+                 
+                 
+                         
+                             
+                 
+             
+            
+  
+ 
+     
+     
+                 
+            
+        
+            
+    
+    
+        
+              
+        
+            
+    
+    
+
+            
+     
+     
+      
+     
+     
+     
+
+         
+         
+             Broken and scorched black by fire, the dense, wedge-shaped marks etched into the ancient clay tablets are only just visible under the soft light at the British Museum. These tiny signs are the remains of the world’s oldest writing system: cuneiform.Developed more than 5,000 years ago in Mesopotamia, the land between the Tigris and Euphrates rivers where modern-day Iraq now lies, cuneiform captured life in a complex and fascinating civilisation for some three millennia. From furious letters between warring royal siblings to rituals for soothing a fractious baby, the tablets offer a unique insight into a society at the dawn of history.They chronicle the rise of fall of Akkad, Assyria and Babylonia, the world’s first empires. An estimated half a million of them have been excavated, and more are still buried in the ground.However, since cuneiform was first deciphered by scholars around 150 years ago, the script has only yielded its secrets to a small group of people who can read it. Some 90% of cuneiform texts remain untranslated.That could change thanks to a very modern helper: machine translation.You might also like:• The chefs who never taste food• The aircraft designer who’s never flown• What single word defines who you are?“The influence that Mesopotamia has on our own culture is something that people don’t know much about,” says Émilie Pagé-Perron, a researcher in Assyriology at the University of Toronto. Mesopotamia gave us the wheel, astronomy, the 60-minute hour, maps, the story of the flood and the ark, and the first work of literature, the Epic of Gilgamesh. But its texts are mainly written in Sumerian and Akkadian, languages that relatively few scholars can read.Pagé-Perron is coordinating a project to machine translate 69,000 Mesopotamian administrative records from the 21st Century BC. One of the aims is to open up the past to new research.“We have information about so many different aspects of the lives of Mesopotamian people, and we can’t really profit from the expertise of people in different fields like economics or politics, who if they had access to the sources, could help us tremendously to understand those societies better,” says Pagé-Perron.
+    
+        View image of The kings of Assyria accumulated huge libraries of tablets (Credit: British Museum)
+    Apart from the clay tablets, there are also more than 50,000 Mesopotamian engraved seals scattered in collections around the world. For millennia, the people of Mesopotamia used seals made of engraved stone that were pressed into wet clay to mark doors, jars, tablets and other objects. Only some 10% of these have even been catalogued, let alone translated.“We have more sources from Mesopotamia than we have from Greece, Rome and ancient Egypt together,” says Jacob Dahl, a professor of Assyriology at the University of Oxford. The challenge is finding enough people who can read them.Pagé-Perron and her team are training algorithms on a sample of 4,000 ancient administrative texts from a digitised database. Each records transactions or deliveries of sheep, reed bundles or beer to a temple or an individual. Originally impressed into the clay with a reed stylus, the texts have already been transliterated into our alphabet by modern scholars. The Sumerian word for big, for example, can be written in cuneiform signs, or it can be written in our alphabet as “gal”.The wording in these administrative texts is simple: “11 nanny goats for the kitchen on the 15th day”, for example. This makes them particularly suitable for automation. Once these algorithms have learned to translate the sample texts into English, they will then automatically translate the other transliterated tablets.
+    
+        View image of Map showing extent of Assyrian empire (Credit: Paul Goodhead)
+    “The texts we’re working on are not very interesting individually, but they’re extremely interesting if you take them as groups of texts,” says Pagé-Perron, who expects the English versions to be online within the next year. The records give us a picture of day to day life in ancient Mesopotamia, of power structures and trading networks, but also of other aspects of its social history, such as the role of female workers. Searchable translations would enable researchers from other areas to explore these rich facets of life in the ancient world. Understanding Mesopotamia is a way of understanding what it means to be human - Émilie Pagé-Perron “These people are so different and so remote from us, but at the same time, they have the same basic problems,” explains Pagé-Perron. “Understanding Mesopotamia is a way of understanding what it means to be human.”She hopes machine analysis will also clarify certain features of Sumerian that still puzzle modern academics. This extinct language is not related to any modern language but has been preserved in inscriptions written in cuneiform. It may be our last remaining link to even older, unrecorded societies.“Sumerian is probably the last member of what must have been a large family of languages that goes back thousands and thousands of years,” says Irving Finkel, the curator in charge of the 130,000 cuneiform tablets stored at the British Museum. “Writing appeared in the world just in time to rescue Sumerian… We’re just lucky that we had some ‘microphone’ that picked it up before it went away with all the others.”Finkel is one of the world’s leading cuneiform experts. In his book-filled office at the British Museum, he explains how the script was slowly deciphered thanks to a multi-lingual inscription about a king, just like the Rosetta Stone that helped researchers make sense of Egyptian hieroglyphs.
+    
+        View image of Algorithms can recognise features in ancient stone tablets (Credit: Jacob Dahl)
+    “It’s actually rather astonishing how interesting it is when you find a human mind across millennia, where it is like talking to them on the telephone,” he says. “It’s the most exciting thing in the world when you meet one of these people.”Ancient accessFew of us will ever cradle a 5,000-year-old tablet in our palm. But thanks to advanced imaging techniques, anyone with an internet connection can now access treasures such as the world’s oldest surviving royal library, which is being digitised. It was built in Nineveh by Ashurbanipal, a powerful and book-loving Assyrian king. Some of the surviving tablets from his library are displayed at the British Museum as part of a special exhibition on Ashurbanipal. Although blackened and hardened by fire when Nineveh was sacked in 612 BC, the text they carry can still be read.New imaging techniques are making the job of working with such ancient, often damaged texts easier. With highly detailed images, it is possible to pick out marks that may be too obscure to see with a human eye.Dahl and his colleagues have been digitising tablets and seals stored in collections in Teheran, Paris and Oxford for a project known as the Cuneiform Digital Library Initiative. This vast online database already contains about a third of the world’s cuneiform texts, as well as some undeciphered written languages, such as Proto-Elamite from ancient Iran. Without sprawling digital resources like this, training machines to do translation would not even be possible.
+    
+        View image of Proto-Elamite is an undeciphered written language from ancient Iran (Credit: Jacob Dahl)
+    Digitisation is also helping researchers to piece together links between texts scattered in collections around the world. Dahl, along with researchers at the University of Southampton and the University of Paris-Nanterre, has digitised 3D images of about 2,000 stone seals from Mesopotamia. In a pilot project, they then used AI algorithms to examine a group of six tablets and identify matching seal impressions found elsewhere in the world. The algorithm correctly selected a tablet that is currently stored in Italy, and another that is stored in the United States; both had been stamped by the same seal.Matching seals and impressions has been notoriously difficult in the past, as many are stored thousands of miles apart. Dahl estimates that all seals could be digitised within about five years, which would then make it possible to trace other patterns. There is some indication, for example, that certain types of stone were favoured by women.“That is the kind of question you could not answer unless you had large numbers of seals imaged in the way we’re doing, and applying techniques like algorithms or machine learning,” Dahl says. He hopes that as artificial intelligence evolves, it will help us unravel the full potential of the rich information contained in collections around the world.“I want Assyriology, which covers half of human history and a very endangered cultural heritage, to be at the forefront of this.”Cracking codesImaging is also changing research into undeciphered scripts. Humans tend to be better than machines at this type of decipherment, which typically involves small amounts of text, creative mental leaps, and an understanding of how people lived and organised themselves. It also involves a great deal of intellectual flexibility.
+    
+        View image of The Lapis Lazuli seal (Credit: Jacob Dahl)
+    Early cuneiform signs, for example, were not even arranged in a linear text, but simply placed together with a box drawn around them. Proto-Elamite is three-dimensional: a shallow impression of a circle has a different meaning than a deeper one. However, technology has helped the decipherment process by providing detailed pictures that can be magnified, shared and compared.“The crucial problem is first and foremost to get proper images,” says Dahl, who is working on deciphering the mysterious script. “That’s lacking for the first 100 years of study of Proto-Elamite.”Such advances go beyond the field of Assyriology. Philippa Steele, a senior research fellow at Cambridge University, is an expert in the early writing systems of ancient Crete and Greece. These include ‘Linear A’, an undeciphered script, and ‘Linear B’, which was used to write an ancient form of Greek.Thanks to techniques that take sophisticated images of ancient tablets that feature these scripts, Steele has discovered new details.“You can make out features that are very difficult to make out with the naked eye,” she says. “And often those features might correspond to the ways in which the person writing the document interacted with the document. So for Linear B, for example… you can make out erasures. Sometimes you can tell when the person writing the document has worked something out and then written something over the top.”
+    
+        View image of Archaeologists unearthing tablets in Iraq (Credit: The Trustees of the British Museum)
+    Pagé-Perron hopes that machines will eventually be able to translate more complex Sumerian tablets, and other languages like Akkadian. “There’s a lot more to discover about ancient cultures,” she says. Perhaps one day, we will be able to read all of our earliest texts in translation – though many of Mesopotamia’s riddles are likely to outlive us, not least because many missing cuneiform fragments are still in the ground, waiting to be excavated.The kings of ancient Mesopotamia thought deeply about the past and the future. They revered cuneiform texts from previous eras, and buried special inscriptions recording their names and achievements, promising rewards for a later ruler who would honour them.In some ways their wish came true. Their battles and conquests may be forgotten by most. But their most powerful invention, writing, has helped humanity develop ideas and technologies over millennia – and now, train machines to learn from the past.Join 900,000+ Future fans by liking us on Facebook, or follow us on Twitter or Instagram.If you liked this story, sign up for the weekly bbc.com features newsletter, called “If You Only Read 6 Things This Week”. A handpicked selection of stories from BBC Future, Culture, Capital, and Travel, delivered to your inbox every Friday. 
+         
+
+ 
+     
+     
+     
+     
+         
+     
+         
+      
+            
